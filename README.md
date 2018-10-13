@@ -7,13 +7,8 @@ This project is focused on improving the transparency of online political advert
 ## Work on scraping and analyzing Facebook's Political Ad Archive
 [Facebook Ad Archive](https://online-pol-ads.github.io/FBPoliticalAds/) 
 
-### Media Coverage
-[The New York Times](https://www.nytimes.com/2018/07/17/technology/political-ads-facebook-trump.html)  
-[CNBC](https://www.cnbc.com/2018/07/18/the-biggest-spender-of-political-ads-on-facebook-president-trump.html)  
-[Atlanta Journal Constitution](https://www.myajc.com/news/trump-buying-political-ads-facebook/PTv7V3bqu3Qq1bxHrtra5J/)  
-[Fortune](http://fortune.com/2018/07/18/donald-trump-facebook-ads/)  
-[CNET](https://www.cnet.com/news/trump-revealed-as-facebooks-biggest-political-advertiser/)  
-[Business Insider](https://www.businessinsider.com/trump-campaign-spending-7-times-more-than-obama-2010-2018-7)
+### Media Coverage (Select)
+[The New York Times](https://www.nytimes.com/2018/07/17/technology/political-ads-facebook-trump.html), [CNBC](https://www.cnbc.com/2018/07/18/the-biggest-spender-of-political-ads-on-facebook-president-trump.html), [Atlanta Journal Constitution](https://www.myajc.com/news/trump-buying-political-ads-facebook/PTv7V3bqu3Qq1bxHrtra5J/), [Fortune](http://fortune.com/2018/07/18/donald-trump-facebook-ads/), [CNET](https://www.cnet.com/news/trump-revealed-as-facebooks-biggest-political-advertiser/), [Business Insider](https://www.businessinsider.com/trump-campaign-spending-7-times-more-than-obama-2010-2018-7)
 
 ## The team
 [Laura Edelson](https://www.linkedin.com/in/laura-edelson-4654182/)  
