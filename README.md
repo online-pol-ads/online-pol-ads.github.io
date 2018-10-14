@@ -1,7 +1,7 @@
 ## Overview
 This project is focused on improving the transparency of online political advertising. Our goals are to build tools to collect and archive political advertising data. We will make publically available our data collection tools and raw data collected to enable analysis of online political advertising by anyone interested. Additionally, we will periodically perform our own analysis of the political advertising data that we collect.
 
-## Analyzing the political advertisements across social media websites in the United States
+## Analyzing online political advertisements in the United States
 [Analysis of Online Political Advertising](https://online-pol-ads.github.io/Online-Political-Ads-Analysis/)
 
 ## Scraping and analyzing Facebook's political ad archive
