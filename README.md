@@ -12,6 +12,6 @@ This project is focused on improving the transparency of online political advert
 
 ## The team
 [Laura Edelson](https://www.linkedin.com/in/laura-edelson-4654182/)  
-[Shikhar Sakhuja](https://wp.nyu.edu/shikharsakhuja/)  
-[Damon McCoy](http://damonmccoy.com)  
-[Ratan Dey](https://www.linkedin.com/in/ratan-dey-21029a5/)
+[Shikhar Sakhuja](https://wp.nyu.edu/shikharsakhuja/)    
+[Ratan Dey](https://www.linkedin.com/in/ratan-dey-21029a5/)  
+[Damon McCoy](http://damonmccoy.com)
